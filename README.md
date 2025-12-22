@@ -8,3 +8,13 @@ This repository contains code and analysis for benchmarking noise characterizati
 **Motivation**
 
 Biological signals such as electrocardiograms (ECG) contain noise from multiple sources—baseline wander, power-line interference, and sensor artifacts. Effective denoising is essential for accurate downstream analysis (e.g., heartbeat detection). This project provides a computational benchmark and comparison of denoising pipelines.
+
+**Data**
+
+We use publicly available ECG and biosignal datasets. Example sources include:
+
+PhysioNet — Physionet hosts clinical ECG databases such as the MIT-BIH Arrhythmia Database.
+https://physionet.org/content/mitdb/1.0.0/
+
+BioSPPy Example Data — A Python library with example ECG signals and preprocessing tutorials. 
+
