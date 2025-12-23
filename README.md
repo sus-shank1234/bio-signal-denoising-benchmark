@@ -17,6 +17,11 @@ Biological signals such as electrocardiograms (ECG) contain noise from multiple 
 - Loaded ECG dataset
 - Visualized raw ECG waveform using Matplotlib
 
+
+<img width="997" height="455" alt="Screenshot 2025-12-22 at 4 37 48 PM" src="https://github.com/user-attachments/assets/7744ab9f-58aa-46d3-b8e4-3da8388d3687" />
+
+  
+
 ## Next Steps
 - Quantify noise characteristics
 - Implement baseline denoising methods (filters)
