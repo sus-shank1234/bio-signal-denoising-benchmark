@@ -9,6 +9,19 @@ This repository contains code and analysis for benchmarking noise characterizati
 
 Biological signals such as electrocardiograms (ECG) contain noise from multiple sources—baseline wander, power-line interference, and sensor artifacts. Effective denoising is essential for accurate downstream analysis (e.g., heartbeat detection). This project provides a computational benchmark and comparison of denoising pipelines.
 
+## Progress Log
+
+### Day 1
+- Set up Python virtual environment
+- Installed core scientific libraries
+- Loaded ECG dataset
+- Visualized raw ECG waveform using Matplotlib
+
+## Next Steps
+- Quantify noise characteristics
+- Implement baseline denoising methods (filters)
+- Compare performance using SNR and RMSE
+
 **Data**
 
 We use publicly available ECG and biosignal datasets. Example sources include:
@@ -96,4 +109,7 @@ PyPI
 
 [https://github.com/scientisst/BioSPP
 ](url)
+
+
+
 
